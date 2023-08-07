@@ -15,4 +15,5 @@ payload:
   - DOMAIN,apple.com
   - DOMAIN,tv.apple.com
   - DOMAIN,ctyunxs.cn
+  - DOMAIN,hls.aoxtv.com
   - DOMAIN-KEYWORD,lz-cdn
