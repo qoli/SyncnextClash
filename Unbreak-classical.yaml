@@ -15,5 +15,6 @@ payload:
   - DOMAIN,tv.apple.com
   - DOMAIN,ctyunxs.cn
   - DOMAIN,hls.aoxtv.com
+  - DOMAIN-KEYWORD,ffzy-play
   - DOMAIN-KEYWORD,bfzycdn.com
   - DOMAIN-KEYWORD,lz-cdn
