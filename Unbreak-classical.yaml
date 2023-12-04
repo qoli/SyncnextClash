@@ -27,6 +27,8 @@ payload:
   - DOMAIN-KEYWORD,ffzyread
   - DOMAIN,kuaikan-api.com
   - DOMAIN,czzy88.com
+  - DOMAIN,cz01.vip
+  - DOMAIN,CZZ9.COM
   - DOMAIN,v1.ax
   - IP-CIDR,216.180.0.0/16
   - IP-CIDR,103.160.204.120/32
