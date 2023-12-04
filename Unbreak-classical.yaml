@@ -12,7 +12,6 @@ payload:
   - DOMAIN,zh188.net
   - DOMAIN,cz.cz01.site
   - DOMAIN,kczybf.com
-  - DOMAIN,vip.lzcdn2.com
   - DOMAIN,mixpanel.com
   - DOMAIN,appsflyer.com
   - DOMAIN,apple.com
@@ -21,6 +20,7 @@ payload:
   - DOMAIN,hls.aoxtv.com
   - DOMAIN-KEYWORD,ffzy-play
   - DOMAIN-KEYWORD,bfzycdn.com
+  - DOMAIN-KEYWORD,lzcdn
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,default.akamaized.net
   - DOMAIN-KEYWORD,vip.ffzy-online
