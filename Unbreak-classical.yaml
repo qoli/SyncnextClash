@@ -1,23 +1,23 @@
 payload:
-  - DOMAIN,movie.douban.com
-  - DOMAIN,mddcloud.com.cn
-  - DOMAIN,aliyundrive.asia
-  - DOMAIN,v.ddys.zip
-  - DOMAIN,v.ddys.pro
-  - DOMAIN,ddys.info
-  - DOMAIN,ddys.wiki
-  - DOMAIN,ddys.pro
-  - DOMAIN,ddys.mov
-  - DOMAIN,ddys.art
-  - DOMAIN,zh188.net
-  - DOMAIN,cz.cz01.site
-  - DOMAIN,kczybf.com
-  - DOMAIN,mixpanel.com
-  - DOMAIN,appsflyer.com
-  - DOMAIN,apple.com
-  - DOMAIN,tv.apple.com
-  - DOMAIN,ctyunxs.cn
-  - DOMAIN,hls.aoxtv.com
+  - DOMAIN-SUFFIX,movie.douban.com
+  - DOMAIN-SUFFIX,mddcloud.com.cn
+  - DOMAIN-SUFFIX,aliyundrive.asia
+  - DOMAIN-SUFFIX,v.ddys.zip
+  - DOMAIN-SUFFIX,v.ddys.pro
+  - DOMAIN-SUFFIX,ddys.info
+  - DOMAIN-SUFFIX,ddys.wiki
+  - DOMAIN-SUFFIX,ddys.pro
+  - DOMAIN-SUFFIX,ddys.mov
+  - DOMAIN-SUFFIX,ddys.art
+  - DOMAIN-SUFFIX,zh188.net
+  - DOMAIN-SUFFIX,cz.cz01.site
+  - DOMAIN-SUFFIX,kczybf.com
+  - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,tv.apple.com
+  - DOMAIN-SUFFIX,ctyunxs.cn
+  - DOMAIN-SUFFIX,hls.aoxtv.com
   - DOMAIN-KEYWORD,ffzy-play
   - DOMAIN-KEYWORD,bfzycdn.com
   - DOMAIN-KEYWORD,lzcdn
@@ -25,11 +25,11 @@ payload:
   - DOMAIN-KEYWORD,default.akamaized.net
   - DOMAIN-KEYWORD,vip.ffzy-online
   - DOMAIN-KEYWORD,ffzyread
-  - DOMAIN,kuaikan-api.com
-  - DOMAIN,czzy88.com
-  - DOMAIN,cz01.vip
-  - DOMAIN,CZZ9.COM
-  - DOMAIN,v1.ax
+  - DOMAIN-SUFFIX,kuaikan-api.com
+  - DOMAIN-SUFFIX,czzy88.com
+  - DOMAIN-SUFFIX,cz01.vip
+  - DOMAIN-SUFFIX,CZZ9.COM
+  - DOMAIN-SUFFIX,v1.ax
   - IP-CIDR,216.180.0.0/16
   - IP-CIDR,103.160.204.120/32
   - IP-CIDR,138.199.9.104/32
