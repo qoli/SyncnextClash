@@ -8,7 +8,7 @@ http://ghproxy.com/https://raw.githubusercontent.com/qoli/SyncnextClash/main/Unb
 
 http://ghproxy.com/https://raw.githubusercontent.com/qoli/SyncnextClash/main/proxy-classical.yaml
 
-## Passwall 專用規則列表（不完整，依然在構建）
+## Passwall 專用規則列表（不完整，依然在整理）
 
 ### direct_host 直連列表
 
@@ -33,7 +33,7 @@ cdn-qc.content.steamchina.com
 cdn-ali.content.steamchina.com
 epicgames-download1-1251447533.file.myqcloud.com
 
-# Synology ddns
+#Synology ddns
 account.synology.com
 checkip.dyndns.org
 checkip.synology.com
@@ -42,24 +42,46 @@ checkipv6.synology.com
 checkport.synology.com
 ddns.synology.com
 
-#
-sony.com
-
-#
-v.ddys.pro
-czzy88.com
-
-#
+#sentry
 sentry.io
 5mlstudio.sentry.io
 
-#
+#Syncnext
 ffzyread1.com
 xhofe.top
 nn.ci
-
 wogg.link
 wogg.xyz
+imgbb.com
+czzy88.com
+czzy22.com
+czzy66.com
+aliyundrive.asia
+v.ddys.zip
+v.ddys.pro
+ddys.info
+ddys.wiki
+ddys.pro
+ddys.mov
+ddys.art
+zh188.net
+cz.cz01.site
+kczybf.com
+mixpanel.com
+appsflyer.com
+apple.com
+tv.apple.com
+ctyunxs.cn
+hls.aoxtv.com
+default.akamaized.net
+czzy88.com
+czzy22.com
+czzy66.com
+cz01.vip
+CZZ9.COM
+v1.ax
+kuaikan-api.com
+
 ```
 
 ### 代理列表
