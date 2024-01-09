@@ -2,8 +2,6 @@ payload:
   - DOMAIN-SUFFIX,movie.douban.com
   - DOMAIN-SUFFIX,mddcloud.com.cn
   - DOMAIN-SUFFIX,aliyundrive.asia
-  - DOMAIN-SUFFIX,v.ddys.zip
-  - DOMAIN-SUFFIX,v.ddys.pro
   - DOMAIN-SUFFIX,ddys.info
   - DOMAIN-SUFFIX,ddys.wiki
   - DOMAIN-SUFFIX,ddys.pro

@@ -2,11 +2,13 @@
 
 ### SyncnextUnbreak 無需翻牆列表
 
-http://ghproxy.com/https://raw.githubusercontent.com/qoli/SyncnextClash/main/Unbreak-classical.yaml
+https://raw.githubusercontent.com/qoli/SyncnextClash/main/Unbreak-classical.yaml
 
 ### SyncnextProxy 需要翻牆列表
 
-http://ghproxy.com/https://raw.githubusercontent.com/qoli/SyncnextClash/main/proxy-classical.yaml
+https://raw.githubusercontent.com/qoli/SyncnextClash/main/proxy-classical.yaml
+
+raw.githubusercontent.com 地址需要自行尋找可用的國內 GitHub 訪問鏡像。
 
 ## Passwall 專用規則列表（不完整，依然在整理）
 
@@ -57,8 +59,6 @@ czzy88.com
 czzy22.com
 czzy66.com
 aliyundrive.asia
-v.ddys.zip
-v.ddys.pro
 ddys.info
 ddys.wiki
 ddys.pro
