@@ -36,3 +36,4 @@ payload:
   - IP-CIDR,138.199.9.104/32
   - DOMAIN-SUFFIX,wogg.link
   - DOMAIN-SUFFIX,wogg.xyz
+  - DOMAIN-SUFFIX,pstatp.com
