@@ -27,8 +27,14 @@ checkipv6.synology.com
 checkport.synology.com
 ddns.synology.com
 
-#SONY
+#SONY-Playstation
+zeus.dl.playstation.net
+ares.dl.playstation.net
+poseidon.dl.playstation.net
 gs2.ww.prod.dl.playstation.net
+gs2.sonycoment.loris-e.llnwd.net
+post.net.playstation.net
+get.net.playstation.net
 
 #Syncnext
 xhofe.top
