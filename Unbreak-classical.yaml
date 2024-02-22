@@ -34,7 +34,7 @@ payload:
   - IP-CIDR,103.160.204.120/32
   - IP-CIDR,138.199.9.104/32
   - DOMAIN-SUFFIX,wogg.link
-  - DOMAIN-SUFFIX,tvfan.xxooo.cf
+  - DOMAIN-SUFFIX,xxooo.cf
   - DOMAIN-SUFFIX,wogg.xyz
   - DOMAIN-SUFFIX,pstatp.com
   - DOMAIN-KEYWORD,tt.cuc.myqcloud.com.cn
