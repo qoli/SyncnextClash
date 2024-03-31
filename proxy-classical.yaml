@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,discord.com
   - DOMAIN-SUFFIX,olevod.com
+  - DOMAIN-SUFFIX,olevod.tv
   - DOMAIN-SUFFIX,olemovienews.com
   - DOMAIN-SUFFIX,haiwaikan.com
   - DOMAIN-SUFFIX,bfvvs.com
