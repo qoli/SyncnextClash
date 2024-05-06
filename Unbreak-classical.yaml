@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,ddys.mov
   - DOMAIN-SUFFIX,ddys.art
   - DOMAIN-SUFFIX,zh188.net
-  - DOMAIN-SUFFIX,cz.cz01.site
   - DOMAIN-SUFFIX,kczybf.com
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN-SUFFIX,appsflyer.com
@@ -25,11 +24,15 @@ payload:
   - DOMAIN-KEYWORD,vip.ffzy-play
   - DOMAIN-KEYWORD,ffzyread
   - DOMAIN-SUFFIX,kuaikan-api.com
+  - DOMAIN-SUFFIX,cz.cz01.site
   - DOMAIN-SUFFIX,czzy88.com
   - DOMAIN-SUFFIX,czzy22.com
   - DOMAIN-SUFFIX,czzy66.com
   - DOMAIN-SUFFIX,cz233.com
   - DOMAIN-SUFFIX,CZZ9.COM
+  - DOMAIN-SUFFIX,czzy.top
+  - DOMAIN-SUFFIX,czys.top
+  - DOMAIN-SUFFIX,czzy77.com
   - DOMAIN-SUFFIX,v1.ax
   - IP-CIDR,216.180.0.0/16
   - IP-CIDR,103.160.204.120/32
