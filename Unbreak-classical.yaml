@@ -17,8 +17,8 @@ payload:
   - DOMAIN-KEYWORD,ffzy-play
   - DOMAIN-KEYWORD,bfzycdn.com
   - DOMAIN-KEYWORD,lzcdn
-  - DOMAIN-KEYWORD,v.cdnlz
-  - DOMAIN-KEYWORD,v1.cdnlz
+  - DOMAIN-SUFFIX,v.cdnlz
+  - DOMAIN-SUFFIX,v1.cdnlz
   - DOMAIN-KEYWORD,lz-cdn
   - DOMAIN-KEYWORD,default.akamaized.net
   - DOMAIN-KEYWORD,vip.ffzy-online
