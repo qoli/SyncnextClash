@@ -28,11 +28,14 @@ payload:
   - DOMAIN-SUFFIX,czzy88.com
   - DOMAIN-SUFFIX,czzy22.com
   - DOMAIN-SUFFIX,czzy66.com
+  - DOMAIN-SUFFIX,czzy89.com
   - DOMAIN-SUFFIX,cz233.com
   - DOMAIN-SUFFIX,CZZ9.COM
   - DOMAIN-SUFFIX,czzy.top
   - DOMAIN-SUFFIX,czys.top
+  - DOMAIN-SUFFIX,czzy.site
   - DOMAIN-SUFFIX,czzy77.com
+  - DOMAIN-SUFFIX,cz01.tv
   - IP-CIDR,216.180.0.0/16
   - IP-CIDR,103.160.204.120/32
   - IP-CIDR,138.199.9.104/32
@@ -64,3 +67,4 @@ payload:
   - DOMAIN-SUFFIX,ibvio.site
   - DOMAIN-SUFFIX,czzymovie.com
   - DOMAIN-SUFFIX,cz01.org
+  - DOMAIN-SUFFIX,py1080p.com
