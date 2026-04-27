@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,czzy.site
   - DOMAIN-SUFFIX,czzy77.com
   - DOMAIN-SUFFIX,cz01.tv
+  - DOMAIN-SUFFIX,girigirilove.com
   - IP-CIDR,216.180.0.0/16
   - IP-CIDR,103.160.204.120/32
   - IP-CIDR,138.199.9.104/32
