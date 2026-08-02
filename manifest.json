@@ -1,0 +1,99 @@
+{
+  "generator": "SyncnextClash/tools/rules.py",
+  "schema_version": 1,
+  "source_commit": "adfae15e0d8cb5fa7e453b9eb4ad893a62b957fa",
+  "source_files": {
+    "rulesets/proxy.yaml": "3bfb7b81799c948702afcc8186592539f6cd4ac8a694a9d1b76490f0dbcd4914",
+    "rulesets/unbreak.yaml": "1b92016c040c82249b223bbc36551eae9a5d5fd09e3d7cc268beb02f4578dae7"
+  },
+  "artifacts": {
+    "Unbreak-classical.yaml": {
+      "records": 48,
+      "sha256": "8a925aba79d444f3d8758f11ddcd8e98b718edea5bea96d6b6a143d48e41d3d0"
+    },
+    "loon/proxy.list": {
+      "records": 21,
+      "sha256": "0cb5b86ff02de7becd6e105cc5b16f89802e5071fbc704e1e781f774981fc5a0"
+    },
+    "loon/unbreak.list": {
+      "records": 48,
+      "sha256": "e2849af6f7b21452ef343036955965ddcbc54e99e51da351c63e018cc90fef1f"
+    },
+    "mihomo/Unbreak-classical.yaml": {
+      "records": 48,
+      "sha256": "8a925aba79d444f3d8758f11ddcd8e98b718edea5bea96d6b6a143d48e41d3d0"
+    },
+    "mihomo/proxy-classical.yaml": {
+      "records": 21,
+      "sha256": "78e9d7200ffc2a2c428a84e77cd1da7b54d3cf2f68d6bc0dd83b88aff2e9b904"
+    },
+    "passwall/direct_host": {
+      "records": 185,
+      "sha256": "ac9d739b914c9095cd62e8bf5a6eeb854948b5844cff27a68721c0b77c37ede0"
+    },
+    "passwall/direct_ip": {
+      "records": 3,
+      "sha256": "30f9645f1f40a9615e1ed7cba8205845c7b57df6433105e13ead8dcd4a74d278"
+    },
+    "passwall/proxy_host": {
+      "records": 21,
+      "sha256": "7ed350f11b69f9bed7f802e4fcd3a5520261c8e65a07797bb96d7d190076e87f"
+    },
+    "passwall/proxy_ip": {
+      "records": 0,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    "proxy-classical.yaml": {
+      "records": 21,
+      "sha256": "78e9d7200ffc2a2c428a84e77cd1da7b54d3cf2f68d6bc0dd83b88aff2e9b904"
+    },
+    "quantumult-x/proxy.list": {
+      "records": 21,
+      "sha256": "7c82d31bcca55ed03f74dbdbe58f2f75876d7a1eba9e2334539f91c481b950c9"
+    },
+    "quantumult-x/unbreak.list": {
+      "records": 48,
+      "sha256": "31d6388eb42e40a68d3990f7652f29ac6e503675bc0880a0bf8858fa49b814c7"
+    },
+    "shadowrocket/proxy.list": {
+      "records": 21,
+      "sha256": "0cb5b86ff02de7becd6e105cc5b16f89802e5071fbc704e1e781f774981fc5a0"
+    },
+    "shadowrocket/unbreak.list": {
+      "records": 48,
+      "sha256": "e2849af6f7b21452ef343036955965ddcbc54e99e51da351c63e018cc90fef1f"
+    },
+    "sing-box/proxy.json": {
+      "records": 21,
+      "sha256": "60b781fbecf6cf33a2f153c85f41b93fe988a5357a02be82bfe8452218c8f745"
+    },
+    "sing-box/proxy.srs": {
+      "records": 21,
+      "sha256": "bf155286cf60d9811a96b3c604fdb0ac2cee0b4f3513397dc60bff051f719529"
+    },
+    "sing-box/unbreak.json": {
+      "records": 48,
+      "sha256": "27a59692068138b494468857945aca3ffd3108edbdfa2f1510e1d952f1472474"
+    },
+    "sing-box/unbreak.srs": {
+      "records": 48,
+      "sha256": "eecf85ae69ff29a74fdd8e600883cf767949a814b0c70d8d9271a27242a3d80d"
+    },
+    "stash/Unbreak-classical.yaml": {
+      "records": 48,
+      "sha256": "8a925aba79d444f3d8758f11ddcd8e98b718edea5bea96d6b6a143d48e41d3d0"
+    },
+    "stash/proxy-classical.yaml": {
+      "records": 21,
+      "sha256": "78e9d7200ffc2a2c428a84e77cd1da7b54d3cf2f68d6bc0dd83b88aff2e9b904"
+    },
+    "surge/proxy.list": {
+      "records": 21,
+      "sha256": "0cb5b86ff02de7becd6e105cc5b16f89802e5071fbc704e1e781f774981fc5a0"
+    },
+    "surge/unbreak.list": {
+      "records": 48,
+      "sha256": "e2849af6f7b21452ef343036955965ddcbc54e99e51da351c63e018cc90fef1f"
+    }
+  }
+}

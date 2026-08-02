@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "movie.douban.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mddcloud.com.cn"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ddys.info"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ddys.wiki"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ddys.art"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "zh188.net"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kczybf.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mixpanel.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "appsflyer.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "ffzy-play"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "lzcdn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "cdnlz"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "lz-cdn"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "vip.ffzy-online"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "vip.ffzy-play"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "ffzyread"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cz.cz01.site"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy88.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy22.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy66.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy89.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cz233.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "CZZ9.COM"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy.top"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy.site"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzy77.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cz01.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "girigirilove.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "216.180.0.0/16"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "103.160.204.120/32"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "138.199.9.104/32"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "wogg.link"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xxooo.cf"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "wogg.xyz"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "yanetflix.one"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bfikuncdn.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ikunzyapi.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "kkzycdn.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libvio.app"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libviofabu.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libfabu.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libvio.run"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libvio.mov"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libvio.la"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "libhd.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "czzymovie.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "cz01.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "py1080p.com"
+      ]
+    }
+  ]
+}

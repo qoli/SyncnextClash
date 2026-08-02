@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "v1.ax"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "notion-api.splitbee.io"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "themoviedb.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "thetvdb.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "tmdb.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "discord.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "olevod.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "olevod.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "olemovienews.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "haiwaikan.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "picsum.photos"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ibb.co"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "scrapingbee.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "nivod.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "nivodz.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "histar.tv"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "youtubekit-remote.losjet.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "vercel.app"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "thanju.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ddys.app"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xlys02.com"
+      ]
+    }
+  ]
+}
