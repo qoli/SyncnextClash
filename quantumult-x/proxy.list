@@ -19,3 +19,4 @@ host-suffix, vercel.app, proxy
 host-suffix, thanju.com, proxy
 host-suffix, ddys.app, proxy
 host-suffix, xlys02.com, proxy
+host-suffix, workers.dev, proxy
