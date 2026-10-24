@@ -46,3 +46,5 @@ rules:
     value: xlys02.com
   - type: DOMAIN-SUFFIX
     value: workers.dev
+  - type: DOMAIN-SUFFIX
+    value: m.hkybqufgh.com

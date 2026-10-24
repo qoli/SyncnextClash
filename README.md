@@ -69,13 +69,20 @@ Passwall 的 domain 與 IP 必須分別匯入：
 ```bash
 python3 -m venv .venv
 .venv/bin/python -m pip install -r requirements.lock
+./scripts/install_ci_sing_box.sh .venv/bin
 .venv/bin/python tools/rules.py validate
 .venv/bin/python -m unittest discover -s tests -v
-.venv/bin/python tools/rules.py generate --output output
+.venv/bin/python tools/rules.py generate --sing-box .venv/bin/sing-box --output output
 ```
 
-完整生成需要 PATH 中存在準確的 `sing-box v1.13.15`；版本缺失或不符會直接
-失敗。`check-generated` 可檢查 main 根目錄的兩份相容產物：
+安裝腳本供 Linux amd64 CI 與 macOS arm64 本機共用，從
+[官方 v1.13.15 release](https://github.com/SagerNet/sing-box/releases/tag/v1.13.15)
+下載對應平台的 archive，使用固定 SHA-256 校驗後才安裝，並清理暫存下載。
+本機不需設定 `RUNNER_TEMP`；其他平台會明確失敗。
+
+完整生成需要準確的 `sing-box v1.13.15`，可用 `--sing-box` 指定路徑或由 PATH
+尋找；版本缺失或不符會直接失敗。生成器會編譯兩份 SRS，再反編譯核對規則
+語義。`check-generated` 可檢查 main 根目錄的兩份相容產物：
 
 ```bash
 .venv/bin/python tools/rules.py check-generated

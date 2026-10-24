@@ -146,3 +146,5 @@ rules:
     value: cz01.org
   - type: DOMAIN-SUFFIX
     value: py1080p.com
+  - type: DOMAIN-SUFFIX
+    value: www.qmp4.com
