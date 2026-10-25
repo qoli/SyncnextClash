@@ -1,9 +1,9 @@
 {
   "generator": "SyncnextClash/tools/rules.py",
   "schema_version": 1,
-  "source_commit": "5a3be135ca27fddfb6039146d7fcda5e6955a8b7",
+  "source_commit": "417ae2510fa7cb7f6fe499bb07ffcc65474f04d6",
   "source_files": {
-    "rulesets/proxy.yaml": "b8e9666b4c9a92ad0295b6a28e225a1a0683a3434a1ac1332e0dbd4dac6b6542",
+    "rulesets/proxy.yaml": "c4a3bd9ba2f4cd80ed1ce32b3b20d26d6f4f09096246df618140af4e6ecae317",
     "rulesets/unbreak.yaml": "30e4cf777ebb66b2e52fdc891ae5a9494a853115c03dd98b9e7a841a140ba945"
   },
   "artifacts": {
@@ -12,8 +12,8 @@
       "sha256": "a40293ebf46b3f3d3954fcac58c14ee55221ec21509fba67bb4d209409a297b1"
     },
     "loon/proxy.list": {
-      "records": 23,
-      "sha256": "ea370275eeb1ff514952fed10114cd0407a2af040d1bd143befd2fbb319cfdc5"
+      "records": 26,
+      "sha256": "ccab61b76e5f037cab7241b21ad6f75489a22e29fc85d7c99f62b4dea96f3e55"
     },
     "loon/unbreak.list": {
       "records": 49,
@@ -24,8 +24,8 @@
       "sha256": "a40293ebf46b3f3d3954fcac58c14ee55221ec21509fba67bb4d209409a297b1"
     },
     "mihomo/proxy-classical.yaml": {
-      "records": 23,
-      "sha256": "e233774a406455a2461cca52088e92960047738dc203b784e3504def38624b2c"
+      "records": 26,
+      "sha256": "c11c091a2651723a4b0525d3e43a7109fa8762b127a67a56f64af063e08e67ef"
     },
     "passwall/direct_host": {
       "records": 186,
@@ -36,40 +36,40 @@
       "sha256": "30f9645f1f40a9615e1ed7cba8205845c7b57df6433105e13ead8dcd4a74d278"
     },
     "passwall/proxy_host": {
-      "records": 23,
-      "sha256": "24bf6e7433a20e4859dc98e3f0a529e8cfc974081f8af5747fb2dae1a289b309"
+      "records": 26,
+      "sha256": "90c59848d84ee0c9889f53c8d5971706f1460990e8ae1133f4ed887a199f0b8d"
     },
     "passwall/proxy_ip": {
       "records": 0,
       "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
     },
     "proxy-classical.yaml": {
-      "records": 23,
-      "sha256": "e233774a406455a2461cca52088e92960047738dc203b784e3504def38624b2c"
+      "records": 26,
+      "sha256": "c11c091a2651723a4b0525d3e43a7109fa8762b127a67a56f64af063e08e67ef"
     },
     "quantumult-x/proxy.list": {
-      "records": 23,
-      "sha256": "ca39bd91d0faf08276748f214c15a0058aca9f6d85eeeb945a892025c3bef00c"
+      "records": 26,
+      "sha256": "f5ade541aac38b6b0e65d160d6c843fbf25a7cc746377208ee9e9b434f6741ac"
     },
     "quantumult-x/unbreak.list": {
       "records": 49,
       "sha256": "bd7e3ce7518d0cf90fa9e40265cd7a2700576fdd1d58d92ca1c18f3e2b54108d"
     },
     "shadowrocket/proxy.list": {
-      "records": 23,
-      "sha256": "ea370275eeb1ff514952fed10114cd0407a2af040d1bd143befd2fbb319cfdc5"
+      "records": 26,
+      "sha256": "ccab61b76e5f037cab7241b21ad6f75489a22e29fc85d7c99f62b4dea96f3e55"
     },
     "shadowrocket/unbreak.list": {
       "records": 49,
       "sha256": "1d2532ed1be58563ebcd4bf22dd96ff5548a89e5523d512a237a589bc1520cad"
     },
     "sing-box/proxy.json": {
-      "records": 23,
-      "sha256": "ee07c2a2b4db3b8adfb5fc82ac659dd95e53747f94cafc3ea1a612178ca5579b"
+      "records": 26,
+      "sha256": "ab43dcd7753215272e4c43a1623ec00f8b812182dffe78e7017a654112e0b262"
     },
     "sing-box/proxy.srs": {
-      "records": 23,
-      "sha256": "ea3fa739873fa0e229f8874284f35941351a3d1761f2565752aa5a874a34fe34"
+      "records": 26,
+      "sha256": "e262607793bcc25cf92d5df2998b6c0d1c92fda90c95eefaed99e3d2dc8becf5"
     },
     "sing-box/unbreak.json": {
       "records": 49,
@@ -84,12 +84,12 @@
       "sha256": "a40293ebf46b3f3d3954fcac58c14ee55221ec21509fba67bb4d209409a297b1"
     },
     "stash/proxy-classical.yaml": {
-      "records": 23,
-      "sha256": "e233774a406455a2461cca52088e92960047738dc203b784e3504def38624b2c"
+      "records": 26,
+      "sha256": "c11c091a2651723a4b0525d3e43a7109fa8762b127a67a56f64af063e08e67ef"
     },
     "surge/proxy.list": {
-      "records": 23,
-      "sha256": "ea370275eeb1ff514952fed10114cd0407a2af040d1bd143befd2fbb319cfdc5"
+      "records": 26,
+      "sha256": "ccab61b76e5f037cab7241b21ad6f75489a22e29fc85d7c99f62b4dea96f3e55"
     },
     "surge/unbreak.list": {
       "records": 49,
