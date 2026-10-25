@@ -19,6 +19,12 @@ rules:
   - type: DOMAIN-SUFFIX
     value: olevod.tv
   - type: DOMAIN-SUFFIX
+    value: olelive.com
+  - type: DOMAIN-SUFFIX
+    value: yuntongclouds.com
+  - type: DOMAIN-SUFFIX
+    value: oulehdtv.tv
+  - type: DOMAIN-SUFFIX
     value: olemovienews.com
   - type: DOMAIN-SUFFIX
     value: haiwaikan.com
