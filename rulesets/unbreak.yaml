@@ -99,6 +99,10 @@ rules:
   - type: DOMAIN-SUFFIX
     value: czzy.top
   - type: DOMAIN-SUFFIX
+    value: cz4k.com
+  - type: DOMAIN-SUFFIX
+    value: 4kcz.com
+  - type: DOMAIN-SUFFIX
     value: czzy.site
   - type: DOMAIN-SUFFIX
     value: czzy77.com
