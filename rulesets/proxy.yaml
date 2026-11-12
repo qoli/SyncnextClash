@@ -54,3 +54,5 @@ rules:
     value: workers.dev
   - type: DOMAIN-SUFFIX
     value: m.hkybqufgh.com
+  - type: DOMAIN-SUFFIX
+    value: v.fengbao14.com
