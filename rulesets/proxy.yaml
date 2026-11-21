@@ -56,3 +56,5 @@ rules:
     value: m.hkybqufgh.com
   - type: DOMAIN-SUFFIX
     value: v.fengbao14.com
+  - type: DOMAIN-SUFFIX
+    value: fengbao13.com
