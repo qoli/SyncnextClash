@@ -58,3 +58,7 @@ rules:
     value: v.fengbao14.com
   - type: DOMAIN-SUFFIX
     value: fengbao13.com
+  - type: DOMAIN-SUFFIX
+    value: xn--74qy8dk4drvg29x.com
+  - type: DOMAIN-SUFFIX
+    value: xn--rhqp87dfoiv9a830g.com
